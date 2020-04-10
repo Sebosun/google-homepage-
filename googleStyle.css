@@ -20,7 +20,7 @@ ul{
     text-decoration: none;
 }
 li{
-    margin: 0 2px; 
+    margin: 0 5px; 
 }
 
 .navigation-bar a{
@@ -92,6 +92,8 @@ li{
     background-color: darkgray;
     color: black;
     margin: 0;
+    height: 20px;
+    
 }
 
 .footer a{
@@ -108,5 +110,5 @@ li{
 .rightContainer{
     align-self: flex-end;
     float: right;
-    margin-right: 50px;
+    margin-right: 45px;
 }
